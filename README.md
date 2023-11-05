@@ -15,15 +15,15 @@
     height="30"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-    alt="react"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+    alt="nodejs"
     align="center"
     width="40"
     height="30"
   />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-    alt="nodejs"
+    <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+    alt="react"
     align="center"
     width="40"
     height="30"
