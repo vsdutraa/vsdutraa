@@ -7,7 +7,14 @@
 
 <br />
 <div dir="auto">
-    <img
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+    alt="mongodb"
+    align="center"
+    width="40"
+    height="30"
+  />
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
     alt="react"
     align="center"
@@ -15,22 +22,15 @@
     height="30"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-    alt="javascript"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+    alt="nextjs"
     align="center"
     width="40"
     height="30"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-    alt="css"
-    align="center"
-    width="40"
-    height="30"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-    alt="html"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+    alt="nodejs"
     align="center"
     width="40"
     height="30"
