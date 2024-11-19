@@ -29,6 +29,13 @@
     height="30"
   />
   <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript"
+    align="center"
+    width="40"
+    height="30"
+  />
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
     alt="nodejs"
     align="center"
