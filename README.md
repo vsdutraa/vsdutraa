@@ -8,13 +8,6 @@
 <br />
 <div dir="auto">
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-    alt="mongodb"
-    align="center"
-    width="40"
-    height="30"
-  />
-  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
     alt="react"
     align="center"
