@@ -7,6 +7,13 @@
 
 <br />
 <div dir="auto">
+    <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript"
+    align="center"
+    width="40"
+    height="30"
+  />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
     alt="react"
@@ -17,13 +24,6 @@
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
     alt="nextjs"
-    align="center"
-    width="40"
-    height="30"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript"
     align="center"
     width="40"
     height="30"
