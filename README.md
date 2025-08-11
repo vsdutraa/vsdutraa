@@ -35,4 +35,11 @@
     width="40"
     height="30"
   />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="python"
+    align="center"
+    width="40"
+    height="30"
+  />
 </div>
